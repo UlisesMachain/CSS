@@ -1,0 +1,169 @@
+
+.img1{
+    width: 555px;
+    height: 800px;
+}
+.img2{
+    width: 1150px;
+}
+
+h2 {
+
+    font-size:50px;
+
+    font-weight: 700;
+
+    color:darkblue;
+
+}
+
+p {
+
+color:gray;
+
+font-size:medium;
+
+font-weight: 600;
+
+}
+
+.iconos1{
+    margin-right: 30px;
+}
+.iconos2{
+    margin: 20px;
+}
+.yellow{
+    color:yellow
+}
+.test{
+    background-color: whitesmoke;
+    opacity: 0.8;
+    position:relative;
+    top:-150px;
+    margin-left: 35px;
+    padding: 20px;
+    border-radius: 5px;
+    flex:none;
+    
+    
+
+}
+
+b{
+    color:darkblue;
+    
+    
+}
+
+.bi-alarm{
+    color:blue;
+}
+
+button{
+    text-align: center;
+    width: 180px;
+    height: 50px;
+    background-color: rgba(17, 11, 253, 0.95);
+    border-radius: 5px;
+    color:white;
+    font-size: 19px;
+    font-weight:bold;
+}
+/* PORQUE VACUNARSE*/
+
+.why-vaccine{
+    font-size: 15px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+    margin-top: 40px;
+    
+}
+
+h3 {
+
+    font-size:35px;
+
+    font-weight: 700;
+
+    color:darkblue;
+
+}
+            /*CARTAS*/
+.cards{
+    color:gray;
+    font-weight: 600;
+    font-size: small;
+    text-align: left;
+
+}
+.tamanio{
+    
+    margin: 25px;
+    padding: 10px;
+    
+    
+      
+}
+
+.titulocards{
+    color: darkblue;
+    
+    
+}
+/* TABLON 5 RANURAS*/
+.sinborde{
+    border:none;
+    margin: 25px;
+    color:darkblue;
+}
+
+.margenizq{
+    margin-left: 40px;
+}
+
+/*COLUMNA DE 6*/
+
+.tablaizq{
+    margin-top:100px;
+    padding:10px;
+}
+
+.parrafoizq{
+    margin-top:40px;
+    padding:15px 40px 40px 0px;
+    
+}
+
+/*listas*/
+li{
+    text-align: center;
+    
+}
+.listas{
+   
+    border-color: none;
+    border: none;
+    list-style: none;
+    padding: 5px;
+    color:gray
+    
+}
+
+.alineadoderecha{
+    text-align: right;
+}
+
+.finalfondo{
+    background-color: rgba(68, 44, 175, 0.356);
+}
+
+.textobold{
+    font-weight: bold;
+    color: darkblue;
+}
+
+
+}
+
